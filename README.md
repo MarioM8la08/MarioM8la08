@@ -28,7 +28,7 @@ A software designed to support the operations of an assembly line:
   - A worker sends a request via a dedicated interface, automatically updating the count of available pieces at their station.
   - The system processes the request and communicates to the warehouse to replenish the requested pieces.
 - **Technology Stack:**
-  - HTML, CSS, JavaScript, SQL
+  - Html, Css, NodeJs, Express, SQL
 - **Optimization:**
   - Designed exclusively for workstation monitors (desktop layout).
 
