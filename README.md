@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi! I'm **Mario Mottola**, a passionate 16-year-old student (class of 2008) with a love for web development and technology. I enjoy creating detailed and functional software solutions while continuously learning and exploring the world of programming.
+Hi! I'm **Mario Mottola**, a passionate 17-year-old student (class of 2008) with a love for web development and technology. I enjoy creating detailed and functional software solutions while continuously learning and exploring the world of programming.
 
 ## 🛠️ Technical Skills
 
