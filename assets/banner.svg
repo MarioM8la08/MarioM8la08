@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mario Mottola header">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0ea5e9"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="18" fill="url(#g)"/>
+
+  <!-- Title -->
+  <text x="50%" y="46%" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="800" fill="#ffffff" letter-spacing="0.5">Mario Mottola</text>
+  <text x="50%" y="62%" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="500" fill="#eef2ff">
+    Student | Web & Backend Enthusiast
+  </text>
+
+  <!-- Subtle wave -->
+  <path d="M0,200 C200,170 350,230 600,205 C850,180 980,230 1200,205 L1200,260 L0,260 Z" fill="url(#wave)"/>
+</svg>
