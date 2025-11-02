@@ -1,20 +1,18 @@
 <div align="center">
-
 <!-- Banner superiore -->
-<img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=gradient&text=M8la&reversal=false&textBg=false&animation=fadeIn&fontAlign=50&desc=Web%20Dev" alt="header" />
-
-<!-- Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Ciao%2C+sono+Mario!;Sviluppatore+web+e+backend;17+anni%2C+sempre+in+apprendimento;Costruisco+soluzioni+funzionali+e+curate" alt="typing" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=M8la&reversal=false&textBg=false&animation=fadeIn&fontAlign=50" alt="header" />
 
 </div>
 
-## 🧑‍💻 Chi sono
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monoton&letterSpacing=2px&duration=3000&pause=100&color=F7F7F7&center=true&vCenter=true&width=1280&height=300&lines=Mario+Mottola;17+anni;Web+developer)](https://git.io/typing-svg)
 
+## 🧑‍💻 Chi sono
 Sono **Mario Mottola**, uno studente di 17 anni appassionato di sviluppo web e tecnologia. Mi piace progettare e realizzare soluzioni software funzionali, pulite e orientate ai dettagli, continuando ogni giorno a imparare e a migliorare.
 
 - 🎓 Quarto anno in un istituto tecnico informatico tra i più completi e sfidanti della mia città  
 - 💡 Interesse principale: backend, architettura di servizi e ottimizzazione  
 - 🎵 Musica e codice: Spotify sempre in sottofondo
+
 
 ## 🛠️ Stack Tecnologico
 
