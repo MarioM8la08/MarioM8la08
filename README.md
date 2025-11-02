@@ -1,7 +1,11 @@
-# 👋 Ciao, sono Mario Mottola!
-
 <div align="center">
-  <img src="./assets/banner.svg" alt="header" />
+
+<!-- Banner superiore -->
+<img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=gradient&text=M8la&reversal=false&textBg=false&animation=fadeIn&fontAlign=50&desc=Web%20Dev" alt="header" />
+
+<!-- Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Ciao%2C+sono+Mario!;Sviluppatore+web+e+backend;17+anni%2C+sempre+in+apprendimento;Costruisco+soluzioni+funzionali+e+curate" alt="typing" />
+
 </div>
 
 ## 🧑‍💻 Chi sono
@@ -14,45 +18,28 @@ Sono **Mario Mottola**, uno studente di 17 anni appassionato di sviluppo web e t
 
 ## 🛠️ Stack Tecnologico
 
-### Linguaggi e Tecnologie
-- Proficiente
-  - HTML, CSS, JavaScript (autodidatta)
-  - C++ (a scuola)
-  - SQL, MongoDB
-- In uso / Familiarità
-  - Python (molto usato agli inizi)
-  - TypeScript (prevalentemente teorico al momento)
-  - React, Next.js
-  - Java
-  - Flutter
-  - Cisco Packet Tracer (conoscenza)
+<div align="center">
 
-### Punti di forza
-- Backend development  
-- Attenzione ai dettagli  
-- Progettazione di soluzioni efficienti e usabili
+<!-- Icone skill -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,java,cpp,python,flutter,mysql,mongodb,git,linux,vscode&perline=9" alt="skills" />
 
-## 🌟 Progetti
+<!-- Badge personalizzato per Cisco Packet Tracer -->
+<br />
 
-### S400-Call
-Software pensato per supportare le operazioni di una linea di assemblaggio:
-- Funzionalità
-  - Un operatore invia una richiesta da un'interfaccia dedicata, aggiornando automaticamente il conteggio dei pezzi disponibili alla sua postazione.
-  - Il sistema processa la richiesta e comunica al magazzino di rifornire i pezzi richiesti.
-- Stack Tecnologico
-  - HTML, CSS, Node.js, Express, SQL
-- Ottimizzazione
-  - Interfaccia progettata esclusivamente per monitor di postazione (layout desktop)
+</div>
 
-> Altri progetti personali sono in lavorazione e verranno condivisi su GitHub.
 
-## 📂 Repository
+## 📈 Statistiche
 
-<!-- REPO-LIST:START -->
+<div align="center">
 
-In attesa del primo aggiornamento automatico del workflow. Sezione aggiornata ogni 24h.
+<img src="https://github-readme-stats.vercel.app/api?username=MarioM8la08&show_icons=true&theme=radical" alt="stats" />
 
-<!-- REPO-LIST:END -->
+<img src="https://streak-stats.demolab.com?user=MarioM8la08&theme=radical" alt="streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioM8la08&layout=compact&theme=radical" alt="top langs" />
+
+</div>
 
 ## 📬 Contatti
 - Instagram: [@mariom8la](https://www.instagram.com/mariom8la/)
@@ -63,5 +50,7 @@ In attesa del primo aggiornamento automatico del workflow. Sezione aggiornata og
 > Obiettivo: lavorare nel mondo dell'**informatica** e dello **sviluppo**, crescere come developer e contribuire a progetti entusiasmanti.
 
 <div align="center">
-  <img src="./assets/footer.svg" alt="footer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:8b5cf6" alt="footer" />
+
 </div>
