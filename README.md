@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Banner superiore -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=nav&color=0:0ea5e9,100:8b5cf6" alt="footer" />
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=M8la&reversal=false&textBg=false&animation=fadeIn&fontAlign=50" alt="header" />
-
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monoton&letterSpacing=2px&duration=3000&pause=100&color=F7F7F7&center=true&vCenter=true&width=1280&height=300&lines=Mario+Mottola;17+anni;Web+developer)](https://git.io/typing-svg)
