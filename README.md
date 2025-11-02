@@ -1,55 +1,91 @@
-# 👋 Hi, I'm Mario Mottola!
+# 👋 Ciao, sono Mario Mottola!
 
-## 🧑‍💻 About Me
+<div align="center">
 
-Hi! I'm **Mario Mottola**, a passionate 17-year-old student (class of 2008) with a love for web development and technology. I enjoy creating detailed and functional software solutions while continuously learning and exploring the world of programming.
+<!-- Banner superiore -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mario%20Mottola&fontAlign=50&fontAlignY=38&color=0:0ea5e9,100:8b5cf6&fontColor=ffffff&desc=Student%20%7C%20Web%20%26%20Backend%20Enthusiast&descAlign=50&descAlignY=65" alt="header" />
 
-## 🛠️ Technical Skills
+<!-- Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Ciao%2C+sono+Mario!;Sviluppatore+web+e+backend;17+anni%2C+sempre+in+apprendimento;Costruisco+soluzioni+funzionali+e+curate" alt="typing" />
 
-### Languages and Technologies:
-- **Proficient:**
-  - HTML, CSS, JavaScript (self-taught)
-  - C++ (learning in school)
+</div>
+
+## 🧑‍💻 Chi sono
+
+Sono **Mario Mottola**, uno studente di 17 anni appassionato di sviluppo web e tecnologia. Mi piace progettare e realizzare soluzioni software funzionali, pulite e orientate ai dettagli, continuando ogni giorno a imparare e a migliorare.
+
+- 🎓 Terzo anno in un istituto tecnico informatico tra i più completi e sfidanti della mia città
+- 💡 Interesse principale: backend, architettura di servizi e ottimizzazione
+- 🎵 Musica e codice: Spotify sempre in sottofondo
+
+## 🛠️ Stack Tecnologico
+
+### Linguaggi e Tecnologie
+
+- **Proficiente**
+  - HTML, CSS, JavaScript (autodidatta)
+  - C++ (a scuola)
   - SQL, MongoDB
-- **Familiar:**
-  - Python (used frequently at the start of my journey)
-  - TypeScript (mostly theoretical knowledge for now)
+- **In uso / Familiarità**
+  - Python (molto usato agli inizi)
+  - TypeScript (prevalentemente teorico al momento)
+  - React, Next.js
+  - Java
+  - Flutter
+  - Cisco Packet Tracer (conoscenza)
 
-### Strengths:
+<div align="center">
+
+<!-- Icone skill -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,java,cpp,python,flutter,mysql,mongodb,git,linux,vscode&perline=9" alt="skills" />
+
+<!-- Badge personalizzato per Cisco Packet Tracer -->
+
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-conoscenza-1a73e8?logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+
+</div>
+
+### Punti di forza
 - Backend development
-- Attention to detail
-- Designing efficient and user-friendly solutions
+- Attenzione ai dettagli
+- Progettazione di soluzioni efficienti e usabili
 
-## 🌟 Projects
+## 🌟 Progetti
 
-### **S400-Call**
-A software designed to support the operations of an assembly line:
-- **Functionality:**
-  - A worker sends a request via a dedicated interface, automatically updating the count of available pieces at their station.
-  - The system processes the request and communicates to the warehouse to replenish the requested pieces.
-- **Technology Stack:**
-  - Html, Css, NodeJs, Express, SQL
-- **Optimization:**
-  - Designed exclusively for workstation monitors (desktop layout).
+### S400-Call
+Software pensato per supportare le operazioni di una linea di assemblaggio:
+- **Funzionalità**
+  - Un operatore invia una richiesta da un'interfaccia dedicata, aggiornando automaticamente il conteggio dei pezzi disponibili alla sua postazione.
+  - Il sistema processa la richiesta e comunica al magazzino di rifornire i pezzi richiesti.
+- **Stack Tecnologico**
+  - HTML, CSS, Node.js, Express, SQL
+- **Ottimizzazione**
+  - Interfaccia progettata esclusivamente per monitor di postazione (layout desktop)
 
-### **Other Projects:**
-I have also worked on other personal projects focused on creating interactive and efficient tools, which I aim to share on GitHub in the future.
+> Altri progetti personali sono in lavorazione e verranno condivisi su GitHub.
 
-## 🎯 Goals
-- My main goal is to work in a field I love, focusing on **informatics** and **development**, while enjoying music on Spotify.
-- Long-term, I aspire to join a company where I can grow as a developer and contribute to exciting projects.
+## 📈 Statistiche
 
-## ⚽ Interests
-- **Music** 🎵
-- **Football** ⚽
+<div align="center">
 
-## 📬 Contact Me
-- **Instagram:** [@mariom8la](https://www.instagram.com/mariom8la/)
-- **Email:** [mario.m8la@gmail.com](mailto:mario.m8la@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=MarioM8la08&show_icons=true&theme=radical" alt="stats" />
 
-## 📚 Education
-Currently attending one of the most challenging and comprehensive schools in my city for IT education. I am in my third year and continuously striving to expand my knowledge.
+<img src="https://streak-stats.demolab.com?user=MarioM8la08&theme=radical" alt="streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioM8la08&layout=compact&theme=radical" alt="top langs" />
+
+</div>
+
+## 📬 Contatti
+- Instagram: [@mariom8la](https://www.instagram.com/mariom8la/)
+- Email: [mario.m8la@gmail.com](mailto:mario.m8la@gmail.com)
 
 ---
 
-Feel free to explore my repositories and connect with me to collaborate on projects or share ideas! 🚀
+> Obiettivo: lavorare nel mondo dell'**informatica** e dello **sviluppo**, crescere come developer e contribuire a progetti entusiasmanti.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:8b5cf6" alt="footer" />
+
+</div>
