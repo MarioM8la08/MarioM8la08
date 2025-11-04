@@ -30,11 +30,11 @@ Sono **Mario Mottola**, uno studente di 17 anni appassionato di sviluppo web e t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MarioM8la08&show_icons=true&theme=radical" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=m8lamario&show_icons=true&theme=radical" alt="stats" />
 
-<img src="https://streak-stats.demolab.com?user=MarioM8la08&theme=radical" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=m8lamario&theme=radical" alt="streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioM8la08&layout=compact&theme=radical" alt="top langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m8lamario&layout=compact&theme=radical" alt="top langs" />
 
 </div>
 
